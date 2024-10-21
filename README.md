@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to take my first steps in testing
 - 💞️ I’m looking to collaborate on finding and reporting bugs
 - 📫 How to reach me natalia.jusupovic@icloud.com
-- 😄 Pronouns: She/her/hers
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: I love minimalism, but my wardrobe doesn't know it
 
 <!---
